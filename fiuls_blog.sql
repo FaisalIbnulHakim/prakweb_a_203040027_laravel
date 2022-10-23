@@ -1,1 +1,1 @@
-SELECT * FROM fiuls_blog.users;
+SELECT * FROM fiuls_blog.posts;
